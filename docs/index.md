@@ -2,7 +2,7 @@
 
 ## A map to aid in initial data analysis.
 
-<iframe src="firedeptmap/index.html" width="1000" height="1000" frameborder="0"></iframe>
+<iframe src="firedeptmap/index.html" width="1000" height="700" frameborder="0"></iframe>
 
 ​	During the summer of 2020 I distributed a survey to firefighters in the United States and Canada. The goal of the survey is to start building an understanding of how firefighters navigate their response areas. The creation of this web map assists with my initial analyzation of the data by allowing me to see the location of the fire department, the local topography of the area and an estimation of the population of that area. 
 
